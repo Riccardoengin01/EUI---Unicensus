@@ -1,0 +1,5 @@
+{
+  "name": "UniCensus: Bathroom Inspection & Maintenance",
+  "description": "A comprehensive tool for university campus facility management. Features bathroom census, detailed structural and sanitary inspections, automated maintenance ticketing via Gemini AI, and statistical reporting.",
+  "requestFramePermissions": []
+}
